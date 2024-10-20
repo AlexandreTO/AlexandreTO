@@ -1,4 +1,4 @@
--  Hi, I’m @AlexandreTO. I am a Web Developer Junior and currently looking for a full time job as a Full-Stack Developer.
+-  Hi, I’m @AlexandreTO. I am a developer and currently looking for a full time job as a PHP / Symfony Developer.
 -  I’m interested in web development back-end if possible but I can do front-end aswell
 -  I’m currently learning Web Development (NodeJS, Symfony, React, MongoDB, MariaDB etc...)
 -  I’m looking to collaborate on diverses web projects that is ongoing or even to start one.
